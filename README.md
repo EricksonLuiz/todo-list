@@ -2,7 +2,7 @@
 ---
 Aplicação Online - <a href="https://ignite-post-eta.vercel.app"> Vercel </a> <br>
 
-<p align="center"><img src=".assets/todo-list.png" width="640px"></p><br>
+<p align="center"><img src=".src/assets/todo-list.png" width="640px"></p><br>
 
 ---
 Ferramentas e Tecnologias: <br><br>
